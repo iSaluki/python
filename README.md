@@ -2,6 +2,7 @@
 A collection of simple Python scripts
 
 **Note:** If you have any problems with any scripts, please open an issue and I'll be happy to help you. I'm also happy to help out with extending/changing functionality in any of my scripts. Just let me know.
+And I am also able to do requests.
 
 # Reference:
 
