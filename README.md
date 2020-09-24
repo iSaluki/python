@@ -5,6 +5,6 @@ A collection of simple Python scripts
 
 # Reference:
 
-guessgame.py -> This is a simple guessing game which prompts the user to guess a word from a list of preset words in the script.
+*guessgame.py* **->** This is a simple guessing game which prompts the user to guess a word from a list of preset words in the script.
 
-numbergame.py -> This script prompts the user to guess a number between 1 and 100 after randomly generating one. It then allows the user 3 guesses, telling them if they are too high or too low each time.
+*numbergame.py* **->** This script prompts the user to guess a number between 1 and 100 after randomly generating one. It then allows the user 3 guesses, telling them if they are too high or too low each time.
