@@ -1,6 +1,7 @@
 import random
 number = random.randint(1,100)
-print (number)
+# print (number) 
+# Enable the above line by removing the '#'. It will print the random number for debug purposes.
 attemptsLeft = 3
 while attemptsLeft !=0:
 	guess = input("What do you think the number is? ")
