@@ -12,4 +12,6 @@ And I am also able to do requests.
 
 *discordbot.py* **->** This is a simple Discord bot script. It requires you to have discord.py installed (I recommend using Pip to get it) and currently logs in and sets a status. In future it will have a much wider range of functions and may be migrated out to its own repository.
 
+*sqrt.py* **->** A simple script to square root a number
+
 More stuff coming soon!
