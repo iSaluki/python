@@ -4,6 +4,11 @@ A collection of simple Python scripts
 **Note:** If you have any problems with any scripts, please open an issue and I'll be happy to help you. I'm also happy to help out with extending/changing functionality in any of my scripts. Just let me know.
 And I am also able to do requests.
 
+# Excluded:
+
+All files in the **/testing** folder are excluded from the reference.
+
+
 # Reference:
 
 *guessgame.py* **->** Guessing game which prompts the user to guess a word from a list of preset words in the script.
@@ -17,3 +22,7 @@ And I am also able to do requests.
 *insulin_calc.py* **->** Calculate your insulin dose
 
 More stuff coming soon!
+
+# Excluded:
+
+All files in the **/testing** folder are excluded from the reference.
