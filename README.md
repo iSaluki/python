@@ -21,6 +21,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *insulin_calc.py* **->** Calculate your insulin dose
 
+*advanced_insulin_calc.py* **->** Calculate your insulin dose (remember ratios and more)
+
 More stuff coming soon!
 
 # Excluded:
