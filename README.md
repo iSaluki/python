@@ -23,6 +23,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *advanced_insulin_calc.py* **->** Calculate your insulin dose (remember ratios and more)
 
+*poly_perim.py* **->** Calculate the perimeter of a regular polygon using classes.
+
 More stuff coming soon!
 
 # Excluded:
