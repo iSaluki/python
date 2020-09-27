@@ -25,6 +25,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *poly_perim.py* **->** Calculate the perimeter of a regular polygon using classes.
 
+*truefalse.py* **->** Random true/false engine.
+
 More stuff coming soon!
 
 # Excluded:
