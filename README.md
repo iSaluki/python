@@ -27,6 +27,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *truefalse.py* **->** Random true/false engine.
 
+*carb_calc.py* **->** Calculate the carbohydrate content in a food based on the carbs per 100g and total weight in grams.
+
 More stuff coming soon!
 
 # Excluded:
