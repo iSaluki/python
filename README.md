@@ -29,6 +29,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *carb_calc.py* **->** Calculate the carbohydrate content in a food based on the carbs per 100g and total weight in grams.
 
+*open_url.py* **->** Open a URL based on user input.
+
 More stuff coming soon!
 
 # Excluded:
