@@ -8,7 +8,7 @@ And I am also able to do requests.
 
 All files in the **/testing** folder are excluded from the reference.
 
-# Guides;
+# Guides:
 
 **Selenium:** https://github.com/iSaluki/python/blob/master/code/automation/selenium.md
 
