@@ -31,6 +31,8 @@ All files in the **/testing** folder are excluded from the reference.
 
 *open_url.py* **->** Open a URL based on user input.
 
+*google.py* **->** Open Chrome and make a Google search based on user input.
+
 More stuff coming soon!
 
 # Excluded:
