@@ -7,6 +7,7 @@ And I am also able to do requests.
 # Excluded:
 
 All files in the **/testing** folder are excluded from the reference.
+Also some very basic scripts are not documented.
 
 
 # Reference:
