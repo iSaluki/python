@@ -36,6 +36,8 @@ Also some very basic scripts are not documented.
 
 *countdown.py* **->** Countdown from a number in seconds
 
+*count.py* **->** Count from a number to a different number.
+
 More stuff coming soon!
 
 # Excluded:
