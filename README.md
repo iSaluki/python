@@ -34,6 +34,8 @@ Also some very basic scripts are not documented.
 
 *google.py* **->** Open Chrome and make a Google search based on user input.
 
+*countdown.py* **->** Countdown from a number in seconds
+
 More stuff coming soon!
 
 # Excluded:
