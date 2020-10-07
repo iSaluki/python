@@ -15,5 +15,6 @@ while messages > 0:
   pyautogui.click()
   pyautogui.typewrite(message)
   pyautogui.press('enter')
+  messages -= 1
  # time.sleep(0.25)  // Remove the comments on this line and the # to enable a gap between messages. The gap is the bracketed number in seconds.
 print ("Operation finished")
