@@ -7,7 +7,7 @@ while not messages.isdigit():
   messages = input("Enter number of messages:")
 messages = int(messages)
 
-print ("Started, activating first protocol in 5 seconds")
+print ("Activating in 5 seconds")
 time.sleep(5)
 
 
