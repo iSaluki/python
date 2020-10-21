@@ -26,6 +26,16 @@ def BreakEven():
 			bep = costs / (sellPrice - varCosts)
 			bep = int(bep)
 			print ("Break even at", bep, "sales")
+def MOS():
+		bep = input("Enter break even point: ")
+		while not bep.isdigit():
+			bep = input("Enter break even point: ")
+		sales = input("Enter sales: ")
+		while not sales.isdigit():
+			sales = input("Enter sales: ")
+		sales = int(sales)
+		bep = int(bep)
+		print ("Your margin of safey is", sales-bep, "sales")
 		
 
 print ("Business Studies Calculator - Developed by Seth-Maurice Brant under MIT license. Source code access and modification allowed.")
@@ -37,14 +47,18 @@ while True:
 		print ("Function List:")
 		print ("[P] Profit calculator")
 		print ("[B] Break Even Point calculator")
+		print ("[M] Margin of Safety calculator")
 		funcSelector =  input("Please select function: ")
 		funcSelector = funcSelector[0].lower()
 		if funcSelector == "p":
 			print ("Starting profit calculator.")
 			CalcProfit()
 		elif funcSelector == "b":
-			print ("Startig break even point calculator.")
+			print ("Starting break even point calculator.")
 			BreakEven()
+		elif funcSelector == "m":
+			print ("Starting Margin of Safety calculator")
+			MOS()
 		else:
 			print ("Unknown function")
 	
