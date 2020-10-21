@@ -19,6 +19,10 @@ if not os.path.exists("./" + FILENAME):
 	while not ratioDi.isdigit():
 		ratioDi = input("Ratio for Dinner: ")
 	ratios.append (int(ratioDi))
+	ratioBe = input("Ratio for night: ")
+	while not ratioBe.isdigit():
+		ratioBe = input("Ratio for night: ")
+	ratios.append(int(ratioBe))
 	outfile = open(FILENAME, 'wb')
 	pickle.dump(ratios, outfile)
 	outfile.close()
@@ -32,7 +36,7 @@ while not carbs.isdigit():
 	carbs = input(carbPrompt)
 carbs = float(carbs)
 
-ratioGet = input("Use ratio for: [B]reakfast, [L]unch or [D]inner? ")
+ratioGet = input("Use ratio for: [B]reakfast, [L]unch, [D]inner or [N]ight? ")
 ratioGet = ratioGet[0].lower()
 infile = open(FILENAME, 'rb')
 ratios = pickle.load(infile)
@@ -42,6 +46,10 @@ elif ratioGet == "l":
 	ratio = ratios[1]
 elif ratioGet == "d":
 	ratio = ratios[2]
+elif ratioGet == "n":
+	ratio = ratios[3]
+else:
+	ratioGet = input("Use ratio for: [B]reakfast, [L]unch, [D]inner or [N]ight? ")
 	
 	
 insulin = carbs / ratio
