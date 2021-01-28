@@ -45,3 +45,10 @@ More stuff coming soon!
 # Excluded:
 
 All files in the **/testing** folder are excluded from the reference.
+
+
+# Projects
+Here are projects that are hosted in seperate repositories:
+
+[Discord Slash Commands](https://github.com/iSaluki/discord-slash-commands)
+
