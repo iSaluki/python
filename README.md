@@ -3,6 +3,8 @@ A collection of simple Python scripts
 
 [![Run on Repl.it](https://repl.it/badge/github/iSaluki/python)](https://repl.it/github/iSaluki/python)
 
+[![DeepSource](https://deepsource.io/gh/iSaluki/python.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/iSaluki/python/?ref=repository-badge)
+
 **Note:** If you have any problems with any scripts, please open an issue and I'll be happy to help you. I'm also happy to help out with extending/changing functionality in any of my scripts. Just let me know.
 And I am also able to do requests.
 
